@@ -1,0 +1,15 @@
+C:\Users\LENOVO\prak10\bin\Debug\net7.0\prak10.exe
+C:\Users\LENOVO\prak10\bin\Debug\net7.0\prak10.deps.json
+C:\Users\LENOVO\prak10\bin\Debug\net7.0\prak10.runtimeconfig.json
+C:\Users\LENOVO\prak10\bin\Debug\net7.0\prak10.dll
+C:\Users\LENOVO\prak10\bin\Debug\net7.0\prak10.pdb
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\prak10.csproj.AssemblyReference.cache
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\prak10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\prak10.AssemblyInfoInputs.cache
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\prak10.AssemblyInfo.cs
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\prak10.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\prak10.dll
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\refint\prak10.dll
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\prak10.pdb
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\prak10.genruntimeconfig.cache
+C:\Users\LENOVO\prak10\obj\Debug\net7.0\ref\prak10.dll
